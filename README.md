@@ -27,8 +27,7 @@
 ---
 
 ## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/ahmadaligebril/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmadaligebril/)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@Ahmad.gebril)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ahmedaligebrail666emoo@gmail.com)
 
