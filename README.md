@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Gebril!
+# Hi, I'm Ahmed Gebril !
 
 🎓 I'm a Computer and Communications Engineering Student at Fayoum University passionate about **Cyber Security , CCNA , OS** **Problem Solving with C++**.  
 ---
@@ -28,8 +28,9 @@
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:YOUR@EMAIL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/ahmadaligebril/)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@Ahmad.gebril)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ahmedaligebrail666emoo@gmail.com)
 
 ---
 💬 *Feel free to check out my repositories or connect with me!*
