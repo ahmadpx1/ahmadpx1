@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Ali!
 
 🎓 I'm a Computer Science student passionate about **Software Development**, **AI**, and **Cloud Computing**.  
-💡 I love building projects that solve real problems and sharing what I learn.
+💡 I love building projects that solve real problems and sharing what I learn with others.
 
 ---
 
@@ -14,6 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 | Category | Tools & Languages |
 |:--|:--|
 | 💻 Programming | C++, Python, JavaScript |
@@ -24,12 +25,20 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedali&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedali&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadpx1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadpx1&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadpx1&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ahmedali)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ahmadpx1)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:YOUR@EMAIL.com)
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
+💬 *Feel free to check out my repositories or connect with me!*
