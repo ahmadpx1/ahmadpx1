@@ -1,14 +1,9 @@
-# 👋 Hi, I'm Ahmed Ali!
+# Hi, I'm Ahmed Gebril!
 
-🎓 I'm a Computer Science student passionate about **Software Development**, **AI**, and **Cloud Computing**.  
-💡 I love building projects that solve real problems and sharing what I learn with others.
-
+🎓 I'm a Computer and Communications Engineering Student at Fayoum University passionate about **Cyber Security , CCNA , OS** **Problem Solving with C++**.  
 ---
 
-## 🧠 About Me
-- 🔭 I’m currently learning **C++**, **Git/GitHub**, and **Data Structures**
-- 🌱 Exploring **Azure Cloud** and **AI tools** by Microsoft
-- 💬 Ask me about: **Programming**, **Git**, **Open Source**
+## About Me
 - ⚡ Fun fact: I enjoy solving coding problems on **Codeforces** & **LeetCode**
 
 ---
@@ -17,10 +12,9 @@
 
 | Category | Tools & Languages |
 |:--|:--|
-| 💻 Programming | C++, Python, JavaScript |
-| ☁️ Cloud | Microsoft Azure |
+| 💻 Programming | C++, Python, Java |
 | 🧰 Tools | Git, GitHub, VS Code, CLion |
-| 🎨 Design | Canva, Figma |
+| 🎨 Design | PR , Ae , Canva, Figma |
 
 ---
 
@@ -35,10 +29,7 @@
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ahmadpx1)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:YOUR@EMAIL.com)
 
 ---
-
-⭐️ *Thanks for visiting my profile!*  
 💬 *Feel free to check out my repositories or connect with me!*
